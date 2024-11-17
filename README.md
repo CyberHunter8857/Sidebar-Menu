@@ -3,6 +3,8 @@
 ## Overview
 This project is a stylish sidebar menu interface built using HTML, CSS, and Font Awesome for icons. It provides a responsive layout where a sidebar can be toggled to show or hide, creating a modern and interactive user experience. The project is intended for learning purposes and showcases fundamental web development skills.
 
+[Click Here](https://sidebar-menu-two.vercel.app/) to visit the site.
+
 ## Features
 - **Responsive Sidebar Menu**: The sidebar slides in and out with a smooth animation.
 - **Toggle Buttons**: The sidebar can be toggled using a button with animated icons.
