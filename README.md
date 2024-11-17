@@ -63,7 +63,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ## Contact
 For any questions or feedback, feel free to reach out:
 - **Email**: mayurtamanke7744@gmail.com
-- **GitHub**: [Your GitHub Profile](https://github.com/CyberHunter8857)
+- **GitHub**: [CyberHunter8857](https://github.com/CyberHunter8857)
 
 ---
 
