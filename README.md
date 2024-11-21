@@ -22,12 +22,12 @@ This project is a stylish sidebar menu interface built using HTML, CSS, and Font
 ## How to Run the Project
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/css-sidebar-menu-project.git
+   git clone https://github.com/CyberHunter8857/Sidebar-Menu.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd css-sidebar-menu-project
+   cd Sidebar-Menu
    ```
 
 3. **Open the Project**:
@@ -35,7 +35,7 @@ This project is a stylish sidebar menu interface built using HTML, CSS, and Font
 
 ## Project Structure
 ```
-css-sidebar-menu-project/
+Sidebar-Menu/
 ├── index.html
 ├── style.css
 └── README.md
